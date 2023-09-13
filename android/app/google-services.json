@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695104789270",
+    "project_id": "workos-5f914",
+    "storage_bucket": "workos-5f914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695104789270:android:66164bf3745b2dd0c34e37",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695104789270-b54107o7504i8s1hcl2k2c9j8ejn2i29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc26T5HaogqMxktpMJHXqtFRUhRxdYTVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695104789270-b54107o7504i8s1hcl2k2c9j8ejn2i29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
