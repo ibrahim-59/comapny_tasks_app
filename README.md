@@ -1,16 +1,5 @@
-# ecommerce
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# company_tasks_app with firebase and provider state management
+- login and logout screens with animation on background
+- every worker can add task , delete his task , add comment on every task
+- worker cant edit or delete  Tasks for other workers
+- every task has start date and end date
